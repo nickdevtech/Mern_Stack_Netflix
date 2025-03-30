@@ -37,6 +37,7 @@ const LoginPage = () => {
 								id='email'
 								value={email}
 								onChange={(e) => setEmail(e.target.value)}
+								autocomplete="current-password"
 							/>
 						</div>
 
@@ -51,6 +52,7 @@ const LoginPage = () => {
 								id='password'
 								value={password}
 								onChange={(e) => setPassword(e.target.value)}
+								autocomplete="current-password"
 							/>
 						</div>
 
