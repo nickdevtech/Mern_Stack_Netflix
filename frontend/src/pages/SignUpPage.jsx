@@ -41,6 +41,7 @@ const SignUpPage = () => {
 								id='email'
 								value={email}
 								onChange={(e) => setEmail(e.target.value)}
+								autocomplete="current-password"
 							/>
 						</div>
 
@@ -55,6 +56,7 @@ const SignUpPage = () => {
 								id='username'
 								value={username}
 								onChange={(e) => setUsername(e.target.value)}
+								autocomplete="current-password"
 							/>
 						</div>
 
@@ -69,6 +71,7 @@ const SignUpPage = () => {
 								id='password'
 								value={password}
 								onChange={(e) => setPassword(e.target.value)}
+								autocomplete="current-password"
 							/>
 						</div>
 
