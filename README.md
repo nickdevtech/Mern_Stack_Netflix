@@ -12,13 +12,13 @@ Database: MongoDB
 Authentication: JSON Web Token (JWT)
 
 ## ✨ Features
-✅ User Authentication – Secure login/signup using JWT
-✅ Browse Movies & TV Shows – Fetch trending and popular content
-✅ Search Functionality – Find movies, TV shows, and actors
-✅ Watch Trailers – Embedded YouTube trailers
-✅ Search History – Store and view search history
-✅ Get Similar Recommendations – Find related content
-✅ Responsive UI – Optimized for all screen sizes
+- User Authentication – Secure login/signup using JWT
+- Browse Movies & TV Shows – Fetch trending and popular content
+- Search Functionality – Find movies, TV shows, and actors
+- Watch Trailers – Embedded YouTube trailers
+- Search History – Store and view search history
+- Get Similar Recommendations – Find related content
+- Responsive UI – Optimized for all screen sizes
 
 ## DEPLOY LINK
 
