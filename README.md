@@ -1,10 +1,3 @@
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-
 ## 🎬 MERN Netflix Clone
 
 A full-stack Netflix-inspired application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to browse, search for movies and TV shows, view details, watch trailers, and manage search history, with authentication handled via JWT.
