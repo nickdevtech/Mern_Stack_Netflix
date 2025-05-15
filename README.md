@@ -22,4 +22,4 @@ Authentication: JSON Web Token (JWT)
 
 ## DEPLOY LINK
 
-[Live Demo Link]()
+[Live Demo Link](https://mern-stack-netflix.onrender.com/)
